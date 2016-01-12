@@ -3,7 +3,7 @@ These code was developed many years ago, I decide to share them with the communi
 # Image-Cropper-For-Computer-Vision
 The software tool contains multiple projects, most of the code is written in C#, some part in C++, and little in assemble language. 
 #Compile
-Please use Visual Studion 2010 or later to compile these projects.
+Please use Visual Studion 2010 or later to compile these projects. The App use the DirectX code for C# from Microsoft, which may not be compiled using VS 2013 or 2015, you need to retarget that project to VC 100 if thing goes wrong. 
 #Run
 Code is tested under debug mode, it probably has some issues when comes to release mode, however, they can be fixed easily, I may need to clean them up a bit.
 #How to Use
