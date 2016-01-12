@@ -1,0 +1,40 @@
+﻿Build started 9/10/2015 10:52:13 AM.
+     1>Project "E:\Projects\AIStudio\CommonFunction\CommonFunction.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Program Files\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cv\include" /I"C:\Program Files (x86)\OpenCV\otherlibs\highgui" /I"C:\Program Files (x86)\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\otherlibs\highgui" /I"D:\Program Files\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\cv\include" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Release\Common.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Stdafx.cpp
+         Stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Program Files\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cv\include" /I"C:\Program Files (x86)\OpenCV\otherlibs\highgui" /I"C:\Program Files (x86)\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\otherlibs\highgui" /I"D:\Program Files\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\cv\include" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Release\Common.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp Common.cpp Complex.cpp FFT.cpp Gabor.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(40): warning C4947: 'RequestMinimum': marked as obsolete
+         AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+         Common.cpp
+         Complex.cpp
+         FFT.cpp
+         Gabor.cpp
+         Generating Code...
+     1>e:\projects\aistudio\commonfunction\common.h(278): warning C4717: 'CommonUtil::ImageFunction::CreateImageFromFile': recursive on all control paths, function will cause runtime stack overflow
+     1>e:\projects\aistudio\commonfunction\common.h(278): warning C4717: 'CommonUtil::ImageFunction::CreateImageFromFile': recursive on all control paths, function will cause runtime stack overflow
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Program Files\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cvaux\include" /I"C:\Program Files (x86)\OpenCV\cv\include" /I"C:\Program Files (x86)\OpenCV\otherlibs\highgui" /I"C:\Program Files (x86)\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\otherlibs\highgui" /I"D:\Program Files\OpenCV\cxcore\include" /I"D:\Program Files\OpenCV\cv\include" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fp"Release\Common.pch" /Fa"Release\\" /Fo"Release\\" /Fd"Release\vc140.pdb" /analyze- /errorReport:prompt "C:\Users\Chunde\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\AIStudio\Release\Common.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Program Files\OpenCV\lib" /LIBPATH:..\CommonFunction /LIBPATH:"C:\Program Files (x86)\OpenCV\lib" user32.lib comsuppw.lib gdi32.lib libfftw.lib /NODEFAULTLIB:LIBCMT.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\Projects\AIStudio\Release\Common.pdb" /LTCG:incremental /TLBID:1 /DYNAMICBASE:NO /FIXED:NO /MACHINE:X86 /SAFESEH /DLL Release\app.res
+         Release\AssemblyInfo.obj
+         Release\Common.obj
+         Release\Complex.obj
+         Release\FFT.obj
+         Release\Gabor.obj
+         Release\Stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>libfftw.lib(plan-dft-1d.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+     1>Gabor.obj : warning LNK4248: unresolved typeref token (0100000D) for 'fftw_plan_s'; image may not run
+     1>FFT.obj : warning LNK4248: unresolved typeref token (0100000D) for 'fftw_plan_s'; image may not run
+     1>Common.obj : warning LNK4248: unresolved typeref token (01000017) for 'fftw_plan_s'; image may not run
+         CommonFunction.vcxproj -> E:\Projects\AIStudio\Release\Common.dll
+     1>Done Building Project "E:\Projects\AIStudio\CommonFunction\CommonFunction.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.20
