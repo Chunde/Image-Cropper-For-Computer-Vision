@@ -1,0 +1,4 @@
+E:\Projects\AIStudio\Release\FrameworkHelper.dll
+E:\Projects\AIStudio\Release\FrameworkHelper.pdb
+E:\Projects\AIStudio\FrameworkHelper\obj\x86\Release\FrameworkHelper.dll
+E:\Projects\AIStudio\FrameworkHelper\obj\x86\Release\FrameworkHelper.pdb

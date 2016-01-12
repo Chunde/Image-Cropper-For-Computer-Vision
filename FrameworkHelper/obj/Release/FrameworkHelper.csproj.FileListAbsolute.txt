@@ -1,0 +1,9 @@
+E:\SyncMesh\FrameworkHelper\bin\Release\FrameworkHelper.dll
+E:\SyncMesh\FrameworkHelper\bin\Release\FrameworkHelper.pdb
+E:\SyncMesh\FrameworkHelper\obj\Release\FrameworkHelper.dll
+E:\SyncMesh\FrameworkHelper\obj\Release\FrameworkHelper.pdb
+E:\Projects\AIStudio\FrameworkHelper\bin\Release\FrameworkHelper.dll
+E:\Projects\AIStudio\FrameworkHelper\bin\Release\FrameworkHelper.pdb
+E:\Projects\AIStudio\FrameworkHelper\obj\Release\FrameworkHelper.csprojResolveAssemblyReference.cache
+E:\Projects\AIStudio\FrameworkHelper\obj\Release\FrameworkHelper.dll
+E:\Projects\AIStudio\FrameworkHelper\obj\Release\FrameworkHelper.pdb
