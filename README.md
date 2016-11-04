@@ -13,4 +13,4 @@ Code is tested under debug mode, it probably has some issues when comes to relea
 Please check the video on using the tool
 http://www.phyxs.com/down_load/image-cropper-for-computer-vision
 Note
-If you use this souce code, please send me a message about your project name or any information if it is good for shareing with the community. 
+If you use this souce code, please send me a message about your project name or any information if it is good for sharing with the community. 
