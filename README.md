@@ -13,4 +13,4 @@ Code is tested under debug mode, it probably has some issues when comes to relea
 As a user and developer, I had tried my best to make this tool easy to use based on my personal preference and experience. Please check the video on using the tool
 https://www.youtube.com/watch?v=275V9wdbQZY
 # Note
-If you use this source code and want to give a bit credit, you may include the link of this tool (http://www.phyxs.com/imagecropper). The programs and documents are distributed without any warranty, express or implied. These programs were written for research purposes only. All use of these programs is entirely at the user's own risk.
+The programs and documents are distributed without any warranty, express or implied. These programs were written for research purposes only. All use of these programs is entirely at the user's own risk.
